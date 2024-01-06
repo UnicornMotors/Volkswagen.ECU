@@ -5,6 +5,12 @@
 - [ECU flash disaster - I just bricked my ECU!](https://youtu.be/11dV0OVCRFw)
 - [How to Remap / Flash with MPPS](https://youtu.be/GtjPtYYFF9k)
 
+# channel: vagecumap
+https://www.youtube.com/@vagecumap5616
+
+playlist:
+- [Diesel chip tuning / remapping guides. These video start with how](https://www.youtube.com/playlist?list=PLxYpxtRjTQYJie-xnCH_Unx4l65Cu6W-r)
+
 # channel: MZopyrus
 - [ECU Tuning || EXPLAINED](https://youtu.be/MKDLXoYgPnE)
 
