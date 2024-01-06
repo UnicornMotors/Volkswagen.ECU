@@ -1,0 +1,1 @@
+- [EEPROM read and write CH341A (Needle Sweep)](https://youtu.be/eObrrIyaek4)
