@@ -1,3 +1,4 @@
+- [Top ECU tuning Software for Optimal Engine chip tuning & remapping](https://youtu.be/WHU34Inz9ok)
 - [Voltlog #225 - Taking A Look Inside A Bosch/Audi ECU EDC15VM+](https://youtu.be/x_9p3E5BVXo)
 
 playlist:
