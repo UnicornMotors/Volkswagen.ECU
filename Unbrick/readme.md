@@ -1,0 +1,1 @@
+- [Repair Bricked ME7 ECU with MPPS V18](https://youtu.be/UUGcKVeBWBE)
