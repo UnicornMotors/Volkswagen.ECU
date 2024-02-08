@@ -5,3 +5,4 @@ sch: https://www.google.com/search?q=mpps+ecu , https://www.google.com/search?q=
 
 # Site:
 - https://chiptuningshop.com/product/mpps-obd-tool/
+- https://www.totalcardiagnostics.com/shop/mpps-ecu-flasher
